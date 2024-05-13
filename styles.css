@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+}
+
+img{
+    display: block;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+p{
+    color: blue;
+}
+
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 30px auto;
+}
+
+th, td{
+    border: 2px solid black;
+    padding: 12px;
+    text-align: center;
+}
+
+th{
+    background-color: greenyellow;
+}
